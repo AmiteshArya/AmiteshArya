@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science & Software Engineering
 - 🌱 I’m currently tinkering with Python Selenium Scripts
 - 💞️ I’m studying Computer Science as a freshman as a Honors College Student at NJIT 
-- 📫 Reach me at my email amuarya39@gmail.com 
+- 📫 Reach me at my email aa2956@njit.edu
 
 <!---
 AmiteshArya/AmiteshArya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
