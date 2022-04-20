@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmiteshArya
 - 👀 I’m interested in Computer Science & Software Engineering
-- 🌱 I’m currently tinkering with Discord Bots
+- 🌱 I’m currently tinkering with Python Selenium Scripts
 - 💞️ I’m studying Computer Science as a freshman as a Honors College Student at NJIT 
 - 📫 Reach me at my email amuarya39@gmail.com 
 
